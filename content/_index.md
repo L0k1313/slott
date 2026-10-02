@@ -6,11 +6,10 @@ type: landing
 sections:
   - block: hero
     content:
-      eyebrow: Beacon for product teams
-      title: Turn customer [noise] into your roadmap
-      text: Capture feedback from every channel — Slack, email, support, in-app — and let AI surface what matters.
+      title: Automation, Integration, Privacy
+      text: In an increasingly interconnected world, the trade-off between convenience and privacy is becoming a daily concern. We believe that your smart home should be a sanctuary of control, not a collection of third-party subscriptions. We specialize in solving the complexity of modern IoT(Smart Devices) ecosystems. Our mission is to take the overwhelming number of devices and services you use—from smart lighting to home security—and unify them into one secure, private, and intuitive control interface. We don’t just install software; We build autonomy. Our focus is creating custom, self-owned solutions that ensure your data stays yours, giving you the peace of mind that comes with true ownership.
       primary_action:
-        text: Start free
+        text: Demo
         url: "#pricing"
         icon: rocket-launch
         style: gradient
@@ -145,7 +144,7 @@ sections:
       title: Customer voice, organized
       text: Stop chasing feedback across five tools. Let Beacon do the listening, the synthesis, and the routing.
       items:
-        - name: AI signal synthesis
+        - name: Tinfoilhat AI
           icon: sparkles
           description: Beacon clusters thousands of fragmented signals into clear themes, ranked by frequency, recency, and revenue weight. Stop sifting; start shipping.
         - name: Realtime capture
